@@ -35,6 +35,18 @@ No Power Apps, criei um banco de dados para uma padaria, que gerencia produtos, 
 - **Objetivo**: Automatizar o controle de produtos e facilitar a gestão de estoque e vendas.
 - **Exemplo**: Cadastro de produtos, monitoramento de estoque e visualização de vendas.
 
+📊 KPI (Indicadores-chave de Performance)
+KPI (Key Performance Indicator) são métricas utilizadas para medir o desempenho de uma organização, processo ou projeto, ajudando a avaliar se os objetivos estratégicos estão sendo atingidos. Eles são essenciais para fornecer insights claros sobre o progresso e a eficácia das ações tomadas.
+
+Objetivos dos KPIs:
+Monitorar o desempenho: KPIs ajudam as empresas a entenderem se estão no caminho certo para atingir suas metas.
+Facilitar a tomada de decisões: Com base nos dados fornecidos pelos KPIs, decisões mais informadas podem ser feitas.
+Identificar áreas de melhoria: KPIs apontam os pontos que precisam de ajustes ou mais atenção para alcançar melhores resultados.
+Ter KPIs bem definidos é essencial para qualquer organização que deseja manter o foco nas suas metas e medir o sucesso de forma objetiva.
+
+exemplo:![image](https://github.com/user-attachments/assets/94551e41-8419-415f-8a09-665648550315)
+
+
 ---
 
 ## 🛠️ Ferramentas Utilizadas
